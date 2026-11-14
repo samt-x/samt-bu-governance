@@ -2,6 +2,9 @@
 id: 2ac89702-8b32-4353-b23f-c40dcf9c45b8
 title: 2026-04-15 Decision memo on the continuation of pilot 1
 weight: 10
+lastmod: 2026-11-02T21:35:54+01:00
+last_editor: Erik Hagen
+
 ---
 
 ## Background

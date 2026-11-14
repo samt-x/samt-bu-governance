@@ -3,6 +3,9 @@
 id: 5d9cd0fb-c067-4c95-b6a7-5fcac38fd012
 title: 2026-10-24 Participants and access – who proposes and approves (provisional)
 weight: 30
+lastmod: 2026-11-15T00:00:35+01:00
+last_editor: Erik Hagen
+
 ---
 
 ## Decision

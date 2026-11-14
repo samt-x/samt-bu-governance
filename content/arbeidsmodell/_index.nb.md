@@ -5,6 +5,9 @@ id: 93229e72-4a63-467c-8171-175d413d1275
 title: Arbeidsmodell
 weight: 20
 toc: true
+lastmod: 2026-07-28T19:42:28+02:00
+last_editor: Erik Hagen
+
 ---
 
 Denne siden beskriver hvordan SAMT-BU foreløpig arbeider med å kartlegge behov og prøve ut løsninger. Modellen er bevisst forenklet, og den vil bli videreutviklet.

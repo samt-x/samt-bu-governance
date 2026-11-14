@@ -4,6 +4,9 @@ id: 5c5afb34-e520-461e-813b-5de086478937
 title: "Oppgaver og oppfølging"
 linkTitle: "Oppgaver og oppfølging"
 weight: 25
+lastmod: 2026-11-12T11:19:54+01:00
+last_editor: Erik Hagen
+
 ---
 
 Her finner du lenkene du trenger for å følge opp arbeidet i SAMT-BU: dine egne oppgaver, brettene til delprosjektene, og porteføljen for hele prosjektet. Oppgavene og brettene ligger i GitHub og er åpne for alle. Bare søkene etter dine egne oppgaver krever at du er logget inn, fordi GitHub må vite hvem du er.

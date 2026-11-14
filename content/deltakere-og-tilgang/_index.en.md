@@ -4,6 +4,9 @@ id: 6e2a2857-9ae4-4a39-80f8-028395d40069
 title: "Participants and access"
 linkTitle: "Participants and access"
 weight: 27
+lastmod: 2026-11-15T00:00:35+01:00
+last_editor: Erik Hagen
+
 ---
 
 The work in SAMT-BU takes place in the GitHub organisation [samt-x](https://github.com/samt-x). Everything that is published can be read by anyone, even without an account. To contribute, have tasks assigned to you and see what is not public, you need to be a member of the organisation.

@@ -4,6 +4,9 @@ id: 5c5afb34-e520-461e-813b-5de086478937
 title: "Tasks and follow-up"
 linkTitle: "Tasks and follow-up"
 weight: 25
+lastmod: 2026-11-12T11:19:54+01:00
+last_editor: Erik Hagen
+
 ---
 
 This page has the links you need to follow up the work in SAMT-BU: your own tasks, the boards of the sub-projects, and the portfolio for the whole project. The tasks and boards live in GitHub and are open to everyone. Only the searches for your own tasks require you to be signed in, because GitHub needs to know who you are.

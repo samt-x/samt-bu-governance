@@ -6,6 +6,9 @@ title: Pilot candidates
 linkTitle: Pilot candidates
 weight: 10
 toc: true
+lastmod: 2026-11-15T00:00:35+01:00
+last_editor: Erik Hagen
+
 ---
 
 Eight candidates have been sent to the participants at the [workshop on 26 August](https://docs.samt-bu.no/en/styring/samlinger/workshop-26-august-2026/). The candidates are cases from the [needs overview](https://docs.samt-bu.no/en/behov/use-cases/) – see [Working model](https://docs.samt-bu.no/en/styring/arbeidsmodell/) for the distinction between cases and pilots.

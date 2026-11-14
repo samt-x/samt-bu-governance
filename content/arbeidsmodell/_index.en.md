@@ -5,6 +5,9 @@ id: 93229e72-4a63-467c-8171-175d413d1275
 title: Working model
 weight: 20
 toc: true
+lastmod: 2026-07-28T19:42:28+02:00
+last_editor: Erik Hagen
+
 ---
 
 This page describes how SAMT-BU currently works to map needs and try out solutions. The model is deliberately simplified, and it will be developed further.

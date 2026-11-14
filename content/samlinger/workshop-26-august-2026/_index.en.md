@@ -6,6 +6,9 @@ title: Workshop 26 August 2026
 linkTitle: Workshop 26 August 2026
 weight: 10
 toc: true
+lastmod: 2026-11-15T00:00:35+01:00
+last_editor: Erik Hagen
+
 ---
 
 The workshop on 26 August will work on the selection of new pilots. The decision itself is taken by the project management, with input from the workshop. This page gathers the practical arrangements and the preparations.

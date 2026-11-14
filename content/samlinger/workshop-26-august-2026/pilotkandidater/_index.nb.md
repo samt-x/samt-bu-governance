@@ -6,6 +6,9 @@ title: Pilotkandidater
 linkTitle: Pilotkandidater
 weight: 10
 toc: true
+lastmod: 2026-11-15T00:00:35+01:00
+last_editor: Erik Hagen
+
 ---
 
 Åtte kandidater er sendt ut til deltakerne på [workshopen 26. august](https://docs.samt-bu.no/styring/samlinger/workshop-26-august-2026/). Kandidatene er caser fra [behovsoversikten](https://docs.samt-bu.no/behov/use-cases/) – se [Arbeidsmodell](https://docs.samt-bu.no/styring/arbeidsmodell/) for skillet mellom case og pilot.
