@@ -14,7 +14,7 @@ The work in SAMT-BU takes place in the GitHub organisation [samt-x](https://gith
 2. **Send your username** (not your email address) to someone in the core team, and say which work you will take part in, for example a pilot or a subject team
 3. **Accept the invitation.** It arrives by email, and can also be found on GitHub under your profile picture → Settings → Organizations. You can open it directly at [github.com/orgs/samt-x/invitation](https://github.com/orgs/samt-x/invitation). **The invitation expires after seven days.** Let us know if it has expired, and we will send a new one
 
-Once you are in, you can edit on the site, see the boards and have tasks assigned to you. Where to find your tasks is described in [Tasks and follow-up](https://docs.samt-bu.no/en/prosjektstyring/oppgaver-og-oppfolging/).
+Once you are in, you can edit on the site, see the boards and have tasks assigned to you. Where to find your tasks is described in [Tasks and follow-up](https://docs.samt-bu.no/en/styring/oppgaver-og-oppfolging/).
 
 ## What you get access to
 
@@ -27,7 +27,7 @@ If you take part in more than one piece of work, you are added to several teams.
 
 ## Who decides
 
-This arrangement applies for the time being, see [the decision of 24 October 2026](/en/prosjektstyring/beslutningslogg/2026-10-24-deltakere-og-tilgang/):
+This arrangement applies for the time being, see [the decision of 24 October 2026](/en/styring/beslutningslogg/2026-10-24-deltakere-og-tilgang/):
 
 - **Anyone can propose new participants.** Send the proposal to someone in the core team
 - **The core team approves** new participants and removes those who are no longer part of the work. Anyone in the core team can do this

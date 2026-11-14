@@ -14,7 +14,7 @@ Arbeidet i SAMT-BU foregår i GitHub-organisasjonen [samt-x](https://github.com/
 2. **Send brukernavnet ditt** (ikke e-postadressen) til noen i kjerneteamet, og si hvilket arbeid du skal være med i, for eksempel en pilot eller et fagteam
 3. **Godta invitasjonen.** Den kommer på e-post, og ligger også på GitHub under profilbildet → Settings → Organizations. Du kan åpne den direkte på [github.com/orgs/samt-x/invitation](https://github.com/orgs/samt-x/invitation). **Invitasjonen utløper etter sju dager.** Si fra hvis den har gått ut, så sender vi en ny
 
-Når du er med, kan du redigere på nettstedet, se brettene og få oppgaver tildelt. Hvor du finner oppgavene dine, står på [Oppgaver og oppfølging](https://docs.samt-bu.no/prosjektstyring/oppgaver-og-oppfolging/).
+Når du er med, kan du redigere på nettstedet, se brettene og få oppgaver tildelt. Hvor du finner oppgavene dine, står på [Oppgaver og oppfølging](https://docs.samt-bu.no/styring/oppgaver-og-oppfolging/).
 
 ## Hva du får tilgang til
 
@@ -27,7 +27,7 @@ Skal du være med i mer enn ett arbeid, legges du i flere team.
 
 ## Hvem bestemmer
 
-Ordningen gjelder inntil videre, se [beslutningen 24. oktober 2026](/prosjektstyring/beslutningslogg/2026-10-24-deltakere-og-tilgang/):
+Ordningen gjelder inntil videre, se [beslutningen 24. oktober 2026](/styring/beslutningslogg/2026-10-24-deltakere-og-tilgang/):
 
 - **Alle kan foreslå nye deltakere.** Send forslaget til noen i kjerneteamet
 - **Kjerneteamet godkjenner** nye deltakere og tar ut dem som ikke lenger er med i arbeidet. Alle i kjerneteamet kan gjøre det

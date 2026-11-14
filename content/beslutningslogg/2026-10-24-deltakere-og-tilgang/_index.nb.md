@@ -25,5 +25,5 @@ En felles oversikt over roller og oppgaver i styringen og administrasjonen av ø
 
 ## Se også
 
-- [Deltakere og tilgang](/prosjektstyring/deltakere-og-tilgang/): slik blir du med, og hva du får tilgang til
+- [Deltakere og tilgang](/styring/deltakere-og-tilgang/): slik blir du med, og hva du får tilgang til
 - [Administrere medlemmer og tilgang](/prosjektleveranser/loesninger/samhandlingsplattform/samt-bu-docs/teknisk-dokumentasjon/medlemmer-og-tilgang/): fremgangsmåten for kjerneteamet

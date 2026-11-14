@@ -36,4 +36,4 @@ The most important thing to settle is **who will take the lead** on each case.
 
 This time the selection places more weight on **feasibility and the partners' ability to contribute** than on finding the "right" case – the main constraint has been capacity to carry pilots out, not a shortage of good needs.
 
-See [Pilot candidates](https://docs.samt-bu.no/en/prosjektstyring/samlinger/workshop-26-august-2026/pilotkandidater/) for the candidates that have been sent out.
+See [Pilot candidates](https://docs.samt-bu.no/en/styring/samlinger/workshop-26-august-2026/pilotkandidater/) for the candidates that have been sent out.

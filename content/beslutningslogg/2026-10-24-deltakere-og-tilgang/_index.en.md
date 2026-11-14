@@ -25,5 +25,5 @@ A shared overview of roles and tasks in the governance and administration of the
 
 ## See also
 
-- [Participants and access](/en/prosjektstyring/deltakere-og-tilgang/): how to join, and what you get access to
+- [Participants and access](/en/styring/deltakere-og-tilgang/): how to join, and what you get access to
 - [Managing members and access](/en/prosjektleveranser/loesninger/samhandlingsplattform/samt-bu-docs/teknisk-dokumentasjon/medlemmer-og-tilgang/): the procedure for the core team
