@@ -23,7 +23,7 @@ Once you are in, you can edit on the site, see the boards and have tasks assigne
 
 Access is granted to teams, not to individuals. You are added to the team for the work you take part in, and get:
 
-- write access to the shared site content, the drafts and the document archive, which all participants have
+- write access to the shared site content (Needs and Insight), the drafts and the document archive, which all participants have. The frame of the site (front page, About, How to contribute) is edited by the core team and the editorial team. There you can suggest changes, which they approve
 - write access to the repository of your own team or pilot
 
 If you take part in more than one piece of work, you are added to several teams.

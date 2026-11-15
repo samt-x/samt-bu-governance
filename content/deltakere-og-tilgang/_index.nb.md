@@ -23,7 +23,7 @@ Når du er med, kan du redigere på nettstedet, se brettene og få oppgaver tild
 
 Tilgang gis til team, ikke til enkeltpersoner. Du legges i teamet for arbeidet du er med i, og får da:
 
-- skrivetilgang til fellesinnholdet på nettstedet, utkastene og dokumentarkivet, som alle deltakere har
+- skrivetilgang til fellesinnholdet på nettstedet (Behov og Innsikt), utkastene og dokumentarkivet, som alle deltakere har. Rammen for nettstedet (forsiden, Om, Hvordan bidra) redigeres av kjerneteamet og redaksjonen. Der kan du foreslå endringer, som de godkjenner
 - skrivetilgang til repoet for ditt eget team eller din egen pilot
 
 Skal du være med i mer enn ett arbeid, legges du i flere team.
