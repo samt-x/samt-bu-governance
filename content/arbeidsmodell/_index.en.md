@@ -5,7 +5,7 @@ id: 93229e72-4a63-467c-8171-175d413d1275
 title: Working model
 weight: 20
 toc: true
-lastmod: 2026-07-28T19:42:28+02:00
+lastmod: 2026-11-20T00:22:22+01:00
 last_editor: Erik Hagen
 
 ---
