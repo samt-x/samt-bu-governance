@@ -3,6 +3,9 @@ id: 127b41c9-0a91-45b6-9885-9ef470118274
 title: "Carrying out pilots"
 linkTitle: "Carrying out pilots"
 weight: 10
+lastmod: 2026-11-19T23:54:19+01:00
+last_editor: Erik Hagen
+
 ---
 The pilots are SAMT-BU's main way of trying out solutions. One of the project's most central products is MVPs and the piloting of information models and services, and the pilots are to be carried out in an agile way: with curiosity and learning through experimentation in short iterations, so that we can quickly demonstrate real value and just as quickly discover what does not work (fail fast). Each pilot starts from one or more [cases](/en/behov/use-cases/), see [Cases and pilots](../#cases-and-pilots).
 

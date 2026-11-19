@@ -3,6 +3,9 @@ id: 127b41c9-0a91-45b6-9885-9ef470118274
 title: "Gjennomføring av piloter"
 linkTitle: "Gjennomføring av piloter"
 weight: 10
+lastmod: 2026-11-19T23:54:19+01:00
+last_editor: Erik Hagen
+
 ---
 Pilotene er SAMT-BUs viktigste måte å prøve ut løsninger på. Et av prosjektets mest sentrale produkter er MVP-er og utprøving av informasjonsmodeller og tjenester, og pilotene skal gjennomføres smidig: med nysgjerrighet og læring gjennom utprøving i korte iterasjoner, slik at vi raskt kan vise reell verdi og like raskt finne ut hva som ikke fungerer (fail fast). Hver pilot tar utgangspunkt i ett eller flere [case](/behov/use-cases/), se [Case og pilot](../#case-og-pilot).
 
