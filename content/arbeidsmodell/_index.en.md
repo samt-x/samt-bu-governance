@@ -73,6 +73,20 @@ Each pilot has a plan for its execution, covering background (case), objective, 
 - The pilot's documentation and deliverables are published on [docs.samt-bu.no](/en/pilotering/), under the pilot.
 - Communication activities are coordinated with the communications adviser in SAMT-BU's core team.
 
+### Documentation of pilots
+
+Each pilot has the same structure on the site. The general conventions for pages are in [Pages and structure](/en/prosjektleveranser/loesninger/samhandlingsplattform/samt-bu-docs/brukerveiledning/sider-og-struktur/).
+
+| Page | Content |
+|---|---|
+| **Front page** (Pilot N) | Only a short lead text. The subpages are listed automatically |
+| **About pilot N** | Brief and factual, meant to last: need (with link to the case), goals, scope, participants and roles. Not method (described here), period, status or work packages |
+| **Deliverables** | Lead text with an up-to-date overview of the deliverables, and one subpage per deliverable (for example dream journey, architecture, legal needs) |
+| **Results and the way forward** | When the pilot has something to show: main results, benefits, prerequisites and next steps, briefly and with links to the deliverables |
+| **Tasks and progress** | Period, status and work packages: the board, the timeline and possibly the original plan |
+
+Status per deliverable (from planned to delivered) is not yet in place. Example of the structure: [Pilot 4](/en/pilotering/pilot-4/).
+
 ## Further work
 
 The working model described here is a **basis for work, not an adopted metamodel**. A more precise conceptual framework for need, solution, goal and deliverable is under development, and may change both how needs are described and how they are linked to measures.
