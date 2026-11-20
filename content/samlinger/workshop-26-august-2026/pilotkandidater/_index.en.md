@@ -6,7 +6,7 @@ title: Pilot candidates
 linkTitle: Pilot candidates
 weight: 10
 toc: true
-lastmod: 2026-11-15T00:00:35+01:00
+lastmod: 2026-11-20T02:42:37+01:00
 last_editor: Erik Hagen
 
 ---

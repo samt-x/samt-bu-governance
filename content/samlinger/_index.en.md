@@ -5,7 +5,7 @@ id: 9f39cdec-bdd8-4b6c-99e8-cfbcead1153f
 title: Gatherings
 linkTitle: Gatherings
 weight: 30
-lastmod: 2026-07-28T21:24:05+02:00
+lastmod: 2026-11-20T02:42:37+01:00
 last_editor: Erik Hagen
 
 ---

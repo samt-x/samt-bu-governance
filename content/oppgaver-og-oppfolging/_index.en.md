@@ -4,7 +4,7 @@ id: 5c5afb34-e520-461e-813b-5de086478937
 title: "Tasks and follow-up"
 linkTitle: "Tasks and follow-up"
 weight: 25
-lastmod: 2026-11-12T11:19:54+01:00
+lastmod: 2026-11-20T02:42:37+01:00
 last_editor: Erik Hagen
 
 ---
