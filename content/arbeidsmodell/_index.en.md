@@ -40,7 +40,7 @@ This chapter describes what is common to all the pilots. What applies to each pi
 
 ### The playbook
 
-The project has produced a «playbook» (dreiebok) for carrying out pilots. It follows a familiar pattern for running projects, in seven phases:
+The project has produced a "playbook" (dreiebok) for carrying out pilots. It follows a familiar pattern for running projects, in seven phases:
 
 ![The playbook in seven phases: 1 Choose pilot, 2 Start-up, 3 Dream journey, 4 Choose MVP, 5 Build MVP, 6 Evaluation, 7 Continuation (figure in Norwegian)](dreiebok-faser.png)
 
@@ -58,7 +58,7 @@ The phases describe a sequence, but the work is iterative, and individual phases
 
 A separate, autonomous team with a pilot lead is established for each pilot. The team is put together according to the competence the pilot needs, typically specialists from the organisations that own the data and services, architects and lawyers, and representatives of municipalities, county authorities and vendors where relevant.
 
-Each pilot has a plan for its execution, covering background (case), objective, products, scope, staffing, work packages and milestones. The plan is the basis for the page «About pilot N».
+Each pilot has a plan for its execution, covering background (case), objective, products, scope, staffing, work packages and milestones. The plan is the basis for the page "About pilot N".
 
 ### Way of working
 

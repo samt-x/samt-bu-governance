@@ -9,11 +9,11 @@ last_editor: Erik Hagen
 
 ---
 
-This page has the links you need to follow up the work in SAMT-BU: your own tasks, the boards of the sub-projects, and the portfolio for the whole project. The tasks and boards live in GitHub and are open to everyone. Only the searches for your own tasks require you to be signed in, because GitHub needs to know who you are.
+This page has the links you need to follow up the work in SAMT-BU: your own tasks, the boards of the subprojects, and the portfolio for the whole project. The tasks and boards live in GitHub and are open to everyone. Only the searches for your own tasks require you to be signed in, because GitHub needs to know who you are.
 
 How task management is set up, and the rules we follow, are described under [Task management](https://docs.samt-bu.no/en/prosjektleveranser/loesninger/samhandlingsplattform/oppgavestyring/).
 
-Use the links on this page to find your way. The list of all boards in GitHub, under Projects in the organisation, also shows the overview boards. They are called «SAMT-BU Overview – …» and are not sub-projects.
+Use the links on this page to find your way. The list of all boards in GitHub, under Projects in the organisation, also shows the overview boards. They are called "SAMT-BU Overview – …" and are not subprojects.
 
 ## New task or input
 
@@ -63,9 +63,9 @@ A **project board** is a project in GitHub (GitHub Projects): a collection of ta
 
 Moving a card to another column changes the field the columns are based on, usually status. The change shows in all views, because it is the same task.
 
-Each sub-project has its own project board, with its own statuses and fields.
+Each subproject has its own project board, with its own statuses and fields.
 
-| Sub-project | Board |
+| Subproject | Board |
 |---|---|
 | Pilot 1 – Transition from lower to upper secondary school | [Project 1](https://github.com/orgs/samt-x/projects/1) |
 | Pilot 2 – Choice of educational path | [Project 2](https://github.com/orgs/samt-x/projects/2) |

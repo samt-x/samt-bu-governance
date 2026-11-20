@@ -10,4 +10,4 @@ last_editor: Erik Hagen
 
 ---
 
-Workshops, working meetings and other gatherings in the project – arrangements, preparations and results.
+Workshops, working meetings and other gatherings in the project – plans, preparations and results.
