@@ -5,7 +5,7 @@ id: 93229e72-4a63-467c-8171-175d413d1275
 title: Arbeidsmodell
 weight: 20
 toc: true
-lastmod: 2026-11-20T22:39:29+01:00
+lastmod: 2026-11-21T00:22:27+01:00
 last_editor: Erik Hagen
 
 ---
