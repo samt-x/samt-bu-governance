@@ -83,7 +83,7 @@ The pilots share a common basic pattern on the site, but how the deliverables an
 | **About pilot N** | Brief and factual, meant to last: need (with link to the case), goals, scope, participants and roles. Not method (described here), period, status or work packages |
 | **Tasks and progress** | Right after About. Period, status and work packages: the board, the timeline and possibly the original plan |
 | **Meetings** (optional) | Minutes that the deliverables build on, as chapters on one page |
-| **Deliverables or chapters** | The content can be divided up in two ways, and the template has not been decided: a "Deliverables" page with one subpage per deliverable (for example dream journey, architecture, legal needs), as in Pilot 4, or thematic chapters directly under the pilot (for example user needs, actors and information flow, choice of solution, details of the chosen solution, legal matters), as in Pilot 6 |
+| **Deliverables or chapters** | The content can be divided up in two ways, and the template has not been decided: a "Deliverables" page with one subpage per deliverable (for example dream journey, architecture, legal needs), as in Pilot 4, or thematic chapters directly under the pilot (for example use cases and user needs, current situation, target picture and choice of solution, with subchapters), as in Pilot 6 |
 | **Results and the way forward** | When the pilot has something to show: main results, benefits, prerequisites and next steps, briefly and with links to the deliverables |
 
 Status per deliverable (from planned to delivered) is not yet in place. Examples: [Pilot 4](/en/pilotering/pilot-4/) (deliverables) and [Pilot 6](/en/pilotering/pilot-6/) (thematic chapters).
