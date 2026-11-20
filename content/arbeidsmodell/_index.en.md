@@ -81,9 +81,10 @@ Each pilot has the same structure on the site. The general conventions for pages
 |---|---|
 | **Front page** (Pilot N) | Only a short lead text. The subpages are listed automatically |
 | **About pilot N** | Brief and factual, meant to last: need (with link to the case), goals, scope, participants and roles. Not method (described here), period, status or work packages |
+| **Tasks and progress** | Right after About. Period, status and work packages: the board, the timeline and possibly the original plan |
+| **Meetings** (optional) | Minutes that the deliverables build on, as chapters on one page |
 | **Deliverables** | Lead text with an up-to-date overview of the deliverables, and one subpage per deliverable (for example dream journey, architecture, legal needs) |
 | **Results and the way forward** | When the pilot has something to show: main results, benefits, prerequisites and next steps, briefly and with links to the deliverables |
-| **Tasks and progress** | Period, status and work packages: the board, the timeline and possibly the original plan |
 
 Status per deliverable (from planned to delivered) is not yet in place. Example of the structure: [Pilot 4](/en/pilotering/pilot-4/).
 

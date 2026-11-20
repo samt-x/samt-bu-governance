@@ -81,9 +81,10 @@ Hver pilot har samme struktur på nettstedet. De generelle konvensjonene for sid
 |---|---|
 | **Forsiden** (Pilot N) | Bare en kort ingress. Undersidene listes automatisk |
 | **Om pilot N** | Kort og saklig, skal stå seg over tid: behov (med lenke til case), mål, omfang og avgrensning, deltakere og roller. Ikke metode (står her), periode, status eller arbeidspakker |
+| **Oppgaver og framdrift** | Rett etter Om. Periode, status og arbeidspakker: brettet, tidslinjen og eventuelt den opprinnelige planen |
+| **Møter** (valgfri) | Referater som leveransene bygger på, som kapitler på én side |
 | **Leveranser** | Ingress med løpende oversikt over leveransene, og én underside per leveranse (for eksempel drømmereise, arkitektur, juridiske behov) |
 | **Resultater og veien videre** | Når piloten har noe å vise: hovedresultater, gevinster, forutsetninger og neste steg, kort og med lenker til leveransene |
-| **Oppgaver og framdrift** | Periode, status og arbeidspakker: brettet, tidslinjen og eventuelt den opprinnelige planen |
 
 Status per leveranse (fra planlagt til levert) er ikke på plass ennå. Eksempel på strukturen: [Pilot 4](/pilotering/pilot-4/).
 
